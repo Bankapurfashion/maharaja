@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name":"Linen White",
+        "price": 200,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":"Twills white",
+        "price": 250,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":"Bulls white",
+        "price": 290,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":"Cotton white",
+        "price": 200,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":"Loius white",
+        "price": 300,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":"Tommy Haifiger",
+        "price": 200,
+        "image": "image/6.png"
+    }
+
+]
